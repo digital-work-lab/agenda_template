@@ -10,7 +10,7 @@ gantt
 
 	title Timeline
 	dateFormat YYYY-MM-DD
-	axisFormat %Y
+	axisFormat %Y-%m
 
 	section Responsibilities
 	Project_A:   done, b1, 2023-01-01, 2025-02-28
