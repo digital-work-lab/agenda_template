@@ -77,4 +77,13 @@ During the planning and review session, we assess accomplishment of results base
 
 ## Log
 
+<!--
+The weekly log is a good place to keep notes on availabilities/upcoming events, such as:
+🏖️ Vacation: 2025-03-01 to 2025-03-21
+🌐 OOO/ICIS Conference: 2025-12-12 to 2025-12-17
+🤒 Sick : 2025-03-01 to 2025-03-05
+🎧 Focus/Exams : 2025-03-01 -to 2025-03-21
+🗓️ Deadline/ICIS submission: 2025-05-01
+-->
+
 ## CW XY
